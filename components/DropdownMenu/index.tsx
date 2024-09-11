@@ -24,3 +24,5 @@ function Example() {
     </Menu>
   );
 }
+
+export default Example
